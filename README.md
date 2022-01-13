@@ -1,1 +1,1 @@
-# GHZBlog
+# ini GHZBlog
