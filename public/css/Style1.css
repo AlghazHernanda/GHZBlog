@@ -1,0 +1,34 @@
+main{
+    width: 70%;
+    height: 430px;
+    display: flex;
+
+}
+
+nav{
+    size: 100%;
+}
+
+aside{
+    border-left:solid ; 
+    border-width: 5px; 
+    border-color: #cdc7c7;
+}
+footer{
+    font-family: montserrat ; 
+    height:auto ; 
+    width: 100%;
+    background-color: #70ccb4; 
+    padding: 18px; text-align: center;
+    color: white;
+    position:absolute ;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+input.form-control{
+    box-shadow: 5px 5px 5px  rgb(145, 145, 145); 
+}

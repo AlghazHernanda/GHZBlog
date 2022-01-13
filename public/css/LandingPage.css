@@ -1,0 +1,55 @@
+body{
+    background-size:100%;
+    background-repeat:no-repeat;
+}
+footer{
+    font-family: montserrat ; 
+    height:auto ; 
+    width: 100%;
+    background-color: #70ccb4; 
+    padding: 18px; 
+    text-align: center;
+    color: white;
+    /* position:absolute ; */
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 85%;
+    
+}
+#informasi-awal {
+    /* text-align: center; */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    line-height: 70%;
+    font-size: 350% ;
+    margin-left: 25%;
+    margin-top: 20%;
+}
+
+button{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+#informasi-akhir {
+    /* text-align: center; */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    line-height: 70%;
+    font-size: 350% ;
+    margin-left: 15%;
+    margin-top: 80%;
+}
+#info-umum {
+    font-size: 40%;
+    width: 75%;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 100%;
+    font-weight: normal;
+}
+
+
+
+

@@ -1,0 +1,36 @@
+body {
+    background-size: 100%;
+}
+
+h1 {
+    margin-left: 50px;
+    color: #038E79;
+}
+
+table {
+    margin-top: 50px;
+}
+
+.judultabel {
+    color: #70ccb4;
+}
+
+.isitabel {
+    background-color: #70ccb4;
+}
+
+footer {
+    font-family: montserrat;
+    height: auto;
+    width: 100%;
+    background-color: #70ccb4;
+    padding: 18px;
+    text-align: center;
+    color: white;
+    /* position:absolute ; */
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+}

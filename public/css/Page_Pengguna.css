@@ -1,0 +1,48 @@
+body {
+    background-size: 100%;
+}
+
+.data pengguna,
+h1 {
+    color: #038E79;
+    margin-left: 50px;
+}
+
+.data pengguna,
+h3 {
+    color: #038E79;
+    margin-left: 60px;
+}
+
+.data pengguna,
+p {
+    margin-left: 60px;
+}
+
+.table {
+    margin-top: 50px;
+}
+
+.judultabel {
+    color: #70ccb4;
+}
+
+.isitabel {
+    background-color: #70ccb4;
+}
+
+footer {
+    font-family: montserrat;
+    height: auto;
+    width: 100%;
+    background-color: #70ccb4;
+    padding: 18px;
+    text-align: center;
+    color: white;
+    position:absolute ;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+}
